@@ -7,7 +7,6 @@ const clients = () =>{
 
     return(
         <Layout>
-            clients
         </Layout>
     )
 }

@@ -4,9 +4,7 @@ import Layout from '../components/layout'
 
 const indexPage = () => {
   return(
-    <Layout> 
-      
-         </Layout>
+  <Layout />
   )
 }
 export default indexPage

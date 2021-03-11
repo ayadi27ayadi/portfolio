@@ -14,21 +14,21 @@ const Header = () => {
        <ul className="nav-list">
            <li>
               <Link className= "nav-iteme"
-              to="/" >INTRO</Link>
+              to="#intro" >INTRO</Link>
            </li>
            
            <li> 
 
-              <Link className= "nav-iteme linee " to="/apropos" >ABAOUT</Link>
+              <Link className= "nav-iteme" to="#apropos" >ABAOUT</Link>
            </li>
            <li>
-              <Link className= "nav-iteme" to="/prestation" >SERVICES</Link>
+              <Link className= "nav-iteme" to="#prestation" >SERVICES</Link>
            </li>
            <li>
-              <Link className= "nav-iteme" to="/temoinage" >TESTIMOIALS</Link>
+              <Link className= "nav-iteme" to="#temoinage" >TESTIMOIALS</Link>
            </li>
            <li>
-              <Link className= "nav-iteme" to="/montravail" >MY WORK</Link>
+              <Link className= "nav-iteme" to="#mywork" >MY WORK</Link>
            </li>
            <li>
               <Link className= "nav-iteme" to="/clients" >CLIENTS</Link>

@@ -1,17 +1,16 @@
 import React from 'react'
-import Layout from '../components/layout'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faHtml5, faLinkedin, faPhp} from '@fortawesome/free-brands-svg-icons'
 
 const prestation = () =>{
 
     return(
-        <Layout>
-  <div class="containerServices">
+        <div id="prestation" style={{backgroundColor:'#95c9a3'}}>
+  <div class="container">
     
-    <hr/>
+    
   <h3 style={{marginLeft:'40%', fontSize:'80px'}}> SERVICES </h3>
-  <hr/>
+
  
   <div class="row">
     <div class="col-sm">
@@ -36,7 +35,7 @@ const prestation = () =>{
     </div>
   </div>
 </div>
-        </Layout>
+        </div>
     )
 }
 export default prestation;
