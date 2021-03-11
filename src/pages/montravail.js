@@ -11,22 +11,7 @@ import IMG4 from '../images/w4.jpg'
 //import {useStaticQuery, graphql} from 'gatsby'
 
 const montravail = () =>{ 
-  // const data = useStaticQuery(graphql`
-  // query Images {
-  //  image: file(relativePath: {eq: "w1.png"}) {
-  //     id
-  //     childrenImageSharp {
-  //       fluid {
-  //         aspectRatio
-  //         base64
-  //         sizes
-  //         src
-  //         srcSet
-  //       }
-  //     }
-  //   }
-  // }`) 
-
+  
     return(
           
         <div id="mywork" style={{width:'80%', marginLeft:'10%'}}>
