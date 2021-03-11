@@ -5,10 +5,7 @@ import IMG2 from '../images/w2.png'
 import IMG3 from '../images/w3.jpg'
 import IMG4 from '../images/w4.jpg'
 
-//import { graphql } from "gatsby"
-//import { StaticImage } from "gatsby-plugin-image";
-//import Img from 'gatsby-image';
-//import {useStaticQuery, graphql} from 'gatsby'
+
 
 const montravail = () =>{ 
   
